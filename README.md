@@ -17,10 +17,9 @@ For more details about the dataset please visit https://sail.usc.edu/iemocap/
 
 
 ## Papers to refer 
-* COSMIC
-* DialogueRNN
-* bi-LSTM
-* 
+* COSMIC - 
+* DialogueRNN - 
+* bi-LSTM - 
 
 
 
