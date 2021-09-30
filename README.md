@@ -16,6 +16,10 @@ The Interactive Emotional Dyadic Motion Capture (IEMOCAP) database is an acted, 
 For more details about the dataset please visit https://sail.usc.edu/iemocap/
 
 
-## Papers to refer 
-*
-*
+## Papers to refered 
+* COSMIC
+* DialogueRNN
+* bl-LSTM
+
+
+
