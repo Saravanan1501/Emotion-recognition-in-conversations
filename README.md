@@ -7,6 +7,8 @@ We use two publicly available dataset whch can be used as benchmarks for evaluat
 Multimodal EmotionLines Dataset (MELD) has been created by enhancing and extending EmotionLines dataset. MELD contains the same dialogue instances available in EmotionLines, but it also encompasses audio and visual modality along with text. MELD has more than 1400 dialogues and 13000 utterances from Friends TV series. Multiple speakers participated in the dialogues. Each utterance in a dialogue has been labeled by any of these seven emotions -- Anger, Disgust, Sadness, Joy, Neutral, Surprise and Fear. MELD also has sentiment (positive, negative and neutral) annotation for each utterance.
 
 
+
+
 For more details about the dataset please visit https://github.com/declare-lab/MELD#note
 
 ### IEMOCAP
@@ -16,10 +18,11 @@ The Interactive Emotional Dyadic Motion Capture (IEMOCAP) database is an acted, 
 For more details about the dataset please visit https://sail.usc.edu/iemocap/
 
 
-## Papers refered 
+## Papers referred 
 * COSMIC
 * DialogueRNN
 * bl-LSTM
+
 
 
 
